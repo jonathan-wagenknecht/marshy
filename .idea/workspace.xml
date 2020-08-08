@@ -17,14 +17,14 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f3280cc-44d8-45a1-b58d-907e9e5c0b0f" name="Default Changelist" comment="Favicon">
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+    <list default="true" id="5f3280cc-44d8-45a1-b58d-907e9e5c0b0f" name="Default Changelist" comment="Updated favicon.ico">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596866655010</updated>
-      <workItem from="1596866656796" duration="2745000" />
+      <workItem from="1596866656796" duration="2829000" />
     </task>
     <task id="LOCAL-00001" summary="Added standard index.html, style.css, and marshy himself.">
       <created>1596868133684</created>
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596868998500</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated favicon.ico">
+      <created>1596869419549</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596869419549</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +149,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -161,7 +168,8 @@
     <MESSAGE value="Commented in style.css" />
     <MESSAGE value="Apparently an &quot;unversioned&quot; file" />
     <MESSAGE value="Favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Favicon" />
+    <MESSAGE value="Updated favicon.ico" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated favicon.ico" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2095" y="387" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596866687980">
@@ -180,9 +188,9 @@
       <screen x="0" y="40" width="3840" height="2120" />
     </state>
     <state x="1953" y="434" key="SettingsEditor/0.40.3840.2120@0.40.3840.2120" timestamp="1596867643669" />
-    <state x="2044" y="522" key="Vcs.Push.Dialog.v2" timestamp="1596869004402">
+    <state x="2044" y="522" key="Vcs.Push.Dialog.v2" timestamp="1596869426934">
       <screen x="0" y="40" width="3840" height="2120" />
     </state>
-    <state x="2044" y="522" key="Vcs.Push.Dialog.v2/0.40.3840.2120@0.40.3840.2120" timestamp="1596869004402" />
+    <state x="2044" y="522" key="Vcs.Push.Dialog.v2/0.40.3840.2120@0.40.3840.2120" timestamp="1596869426934" />
   </component>
 </project>
