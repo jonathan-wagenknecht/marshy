@@ -5,6 +5,7 @@ img {
     left: calc(50vw - 128px);
 }
 
+/*
 img {
   animation: fadein 5s;
   animation-delay: 1s;
@@ -13,14 +14,14 @@ img {
   from { opacity: 0}
   to   { opacity: 1}
 }
-
+*/
 img {
     animation-duration: 2s;
     animation-iteration-count: infinite;
     background-color: #F44336;
     transform-origin: bottom;
 }
-.img
+img
     animation-name: bounce-4;
     animation-timing-function: ease;
 }
