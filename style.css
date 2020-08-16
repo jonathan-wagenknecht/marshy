@@ -3,14 +3,12 @@ img {
     position: absolute;
     top: calc(50vh - 128px);
     left: calc(50vw - 128px);
-    transition: 3s;
 }
 
-@keyframes img {
-    0% {
-        opacity: 0;;
-    }
-    100% {
-        opacioty: 1;
-    }
+img {
+  animation: fadein 2s;
+}
+@keyframes fadein {
+  from { opacity: 0}
+  to   { opacity: 1}
 }
