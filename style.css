@@ -6,7 +6,7 @@ img {
 }
 
 img {
-  animation: fadein 5s;
+  animation: fadein 20s;
 }
 @keyframes fadein {
   from { opacity: 0}
