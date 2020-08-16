@@ -3,6 +3,14 @@ img {
     position: absolute;
     top: calc(50vh - 128px);
     left: calc(50vw - 128px);
-    opacity: 1;
     transition: 3s;
+}
+
+@keyframes img {
+    0% {
+        opacity: 0;;
+    }
+    100% {
+        opacioty: 1;
+    }
 }
